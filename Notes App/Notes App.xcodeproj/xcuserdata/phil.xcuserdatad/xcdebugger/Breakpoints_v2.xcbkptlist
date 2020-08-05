@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FCA5F7DD-4F57-4C68-B33D-4E1E6808F1AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Notes App/MyListsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - e9baec0b353385ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.label.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - 288689dcb7bdd9de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.label.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - 47352387921620ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - 465a9af3ddd2ee00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - d4980fed8853a1b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Notes_App.MyListsViewController"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "56AE8132-BE35-47BB-8EB8-48499DD6A3AE - c5a37297b4af9a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Notes_App.MyListsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Notes_App.MyListsViewController&gt;"
+                  moduleName = "Notes App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phil/Library/Autosave%20Information/Notes%20App/Notes%20App/MyListsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "317">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
